@@ -1,0 +1,1 @@
+This folder is for storing any downloaded or cached API data if needed. The app loads employee data from an open API (see EmployeeAPI.js).
