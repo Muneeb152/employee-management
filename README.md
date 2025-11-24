@@ -27,3 +27,12 @@ Since it is open to everyone, it may sometimes return:
 Delayed/failed responses
 
 If this happens, please refresh the page or try again after a few seconds.
+
+## 📸 Preview
+
+Here is a preview of the Employee Management App:
+
+![Preview 1](./api-data/preview-1.PNG)
+![Preview 2](./api-data/preview-2.PNG)
+
+
